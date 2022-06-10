@@ -1,6 +1,16 @@
 {
     "spider": "https://xiaoyang0853103.github.io/0608.jar",
     "sites": [
+            {
+      "key": "csp_biubiu_555电影",
+      "name": "🥒555电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{"name":"555电影","url":"https://www.555dy.fun","tihuan":"cnzz.com","User":"User-Agent:Dart/2.14 (dart:io)","shouye":"1","fenlei":"热播剧集$/vodshow/2--hits------#热播电影$/vodshow/1--hits------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#亲子$/vodshow/4---亲子-----#国产剧$/vodshow/2-大陆-------#港剧$/vodshow/2-香港-------#韩剧$/vodshow/2-韩国-------#美剧$/vodshow/2-美国-------#泰剧$/vodshow/2-泰国-------#日剧$/vodshow/2-日本-------#英剧$/vodshow/2-英国-------","houzhui":"---.html","shifouercijiequ":"1","jiequqian":"class=\"myui-vodlist clearfix","jiequhou":"</ul>","jiequshuzuqian":"class=\"myui-vodlist__thumb","jiequshuzuhou":"</span>","tupianqian":"original=\"","tupianhou":"\"","biaotiqian":"title=\"","biaotihou":"\"","lianjieqian":"href=\"","lianjiehou":"\"","sousuoqian":"/index.php/ajax/suggest?mid=1&wd=","sousuohou":"&limit=500","sousuohouzhui":"/voddetail/","ssmoshi":"0","sousuoshifouercijiequ":"0","jspic":"pic","jsname":"name","jsid":"id","ssjiequqian":"空","ssjiequhou":"空","ssjiequshuzuqian":"空","ssjiequshuzuhou":"空","sstupianqian":"空","sstupianhou":"空","ssbiaotiqian":"空","ssbiaotihou":"空","sslianjieqian":"空","sslianjiehou":"空","bfshifouercijiequ":"0","bfjiequqian":"空","bfjiequhou":"空","bfjiequshuzuqian":"class=\"myui-content__list","bfjiequshuzuhou":"</ul>","zhuangtaiqian":"更新：</span>","zhuangtaihou":"</p>","daoyanqian":"导演：</span>","daoyanhou":"</p>","zhuyanqian":"主演：</span>","zhuyanhou":"</p>","juqingqian":"class=\"data\" style=\"display: none;\">","juqinghou":"</span>","bfyshifouercijiequ":"0","bfyjiequqian":"空","bfyjiequhou":"空","bfyjiequshuzuqian":"<a","bfyjiequshuzuhou":"/a>","bfbiaotiqian":">","bfbiaotihou":"<","bflianjieqian":"href=\"","bflianjiehou":"\""}"
+    },
         {
             "key": "360_spider",
             "name": "📺360(官源)",
