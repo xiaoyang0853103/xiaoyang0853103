@@ -277,6 +277,11 @@
       }
     },
     {
+        "name": "久九解析",
+        "type": 1,
+        "url": "https://json.hfyrw.com/mao.go?url="
+    },
+    {
       "name": "Pro",
       "type": 1,
       "url": "http://api.vip123kan.vip/?url=",
@@ -382,7 +387,7 @@
       "type": 0,
       "url": "https://vip.bljiex.com/?v=",
       "ext": { "flag": ["ltnb"] }
-    },
+    }
   ],
     "flags": [
         "youku",
