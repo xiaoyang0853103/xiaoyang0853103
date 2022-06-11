@@ -1,5 +1,11 @@
 央视卫视,#genre#
-CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1
+CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
+CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
+CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
+CCTV1,http://111.59.189.40:8445/tsfile/live/1000_1.m3u8
+CCTV1,http://117.148.179.155:80/PLTV/88888888/224/3221231468/index.m3u8
+CCTV1,http://39.137.49.76:8080/PLTV/88888888/224/3221225618/index.m3u8?
+CCTV1,http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv1/1.m3u8?
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
@@ -391,11 +397,6 @@ SiTV游戏风云,http://39.135.55.105:6610/PLTV/88888888/224/3221227075/index.m3
 百视通电影2,http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 百视通电影3,http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 百视通电影4,http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
-百视通动画1,http://39.135.55.105:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
-百视通动画2,http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
-百视通动画3,http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
-百视通动画4,http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
-百视通动画5,http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
 百视通剧集1,http://39.135.55.105:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 百视通剧集2,http://39.135.55.105:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
 百视通剧集3,http://39.135.55.105:6610/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
@@ -555,6 +556,11 @@ CCTV14,http://111.59.189.40:8445/tsfile/live/1012_1.m3u8
 卡酷少儿,http://39.135.55.105:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1
 卡酷少儿,http://39.135.47.100:6610/000000001000/kakukaton/1.m3u8?
 卡酷少儿,http://39.135.32.22:6610/000000001000/7589856436881630561/index.m3u8?
+百视通动画1,http://39.135.55.105:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
+百视通动画2,http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
+百视通动画3,http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
+百视通动画4,http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
+百视通动画5,http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 山东少儿,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 优漫卡通,http://39.135.55.105:6610/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1
