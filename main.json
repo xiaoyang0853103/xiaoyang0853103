@@ -1,5 +1,6 @@
 {
-    "spider": "https://xiaoyang0853103.github.io/0608.jar",
+    //"spider": "https://xiaoyang0853103.github.io/0608.jar",
+    "spider": "http://rd587kysz.hn-bkt.clouddn.com/mymao.json",
     "sites": [
         {
             "key": "360_spider",
