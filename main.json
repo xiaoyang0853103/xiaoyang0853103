@@ -9,7 +9,7 @@
   "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/tangsan/doraAmen.jar",
 
   // xioaming
-  "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/xiaoming/xm.jar",
+  // "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/xiaoming/xm.jar",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
     "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL2xpdmUudHh0"
     ]}]}],
