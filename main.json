@@ -6,13 +6,17 @@
 
   // tangsan
   // "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/tangsan/doraAmen.jar",
+  // "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+  //   "proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
+  //   ]}]}],
 
   // xioaming
   "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/xiaoming/xm.jar",
-  
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
     "proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
     ]}]}],
+  
+
   
   
   "sites":[
