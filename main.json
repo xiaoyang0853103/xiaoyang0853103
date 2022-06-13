@@ -1,6 +1,6 @@
 {
     //"spider": "https://xiaoyang0853103.github.io/0608.jar",
-    "spider": "http://rd587kysz.hn-bkt.clouddn.com/mymao.json",
+    "spider": "https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3cubGFuem91cC5jb20vaVNZOTEwNjhpeGZnJnBhc3NDb2RlPWI1dzg.jar",
     "sites": [
         {"key":"红牛采集","name":"红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"https://www.tutukiki.com/m3u8/?url="},
         {
