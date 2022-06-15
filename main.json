@@ -36,7 +36,7 @@
 
   //   // tangsan
   // {"key":"360","name":"🎾360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Kuaikan","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+  // {"key":"Kuaikan","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   // {"key":"LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   // {"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   // {"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
@@ -67,13 +67,13 @@
   {"key":"csp_Buka","name":"🧼真不卡","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"حقا ليس عالقا"},
   {"key":"csp_Auete","name":"🧿Auete","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"أويتي"},
   {"key":"csp_DiDuan","name":"🌀低端影视","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"السينما والتلفزيون الرديئة"},
-  {"key":"csp_AliPanSou","name":"🐱喵狸盘搜（仅支持搜索）","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"مواء الراكون"},
+  // {"key":"csp_AliPanSou","name":"🐱喵狸盘搜（仅支持搜索）","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"مواء الراكون"},
   //{"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"ملاحظة"},
   {"key":"csp_GitCafe2","name":"🐼小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-  {"key":"csp_Concert","name":"🎤演唱会","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"حفلة موسيقية"},
+  // {"key":"csp_Concert","name":"🎤演唱会","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"حفلة موسيقية"},
   {"key":"csp_Animal","name":"🐘动物世界","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":1,"ext":"عالم الحيوان"},
   {"key":"csp_Opera","name":"🏮戏曲","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"أوبرا"},
-  {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"علي"},
+  // {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"علي"},
    
   {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoyang0853103.github.io/dalao/MeowXP/huya2.json"},
   {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/MeowXB/斗鱼.json"},
