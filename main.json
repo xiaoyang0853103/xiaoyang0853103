@@ -134,7 +134,7 @@
   {"key":"嗨哆咪影视","name":"嗨哆咪影视(聚)","type":1,"api":"http://hdmys1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   {"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-  {"key":"橘猫影视","name":"橘猫影视(聚)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+  {"key":"橘猫影视","name":"橘猫影视(聚)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1}
   ],
   
   "parses":[
