@@ -1,6 +1,14 @@
 {
     "sites": [
-        {"key": "teyondxpTVB云播" ,"name": "TVB云播〔X〕 ","type": 3,"api": "csp_XBiubiu" ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://mtv.chxjon.cn/m/xpath/TVB云播.json"},
+        {
+            "key": "csp_77",
+            "name": "pglblb",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
         {
             "key": "csp_77",
             "name": "七七🏀",
@@ -543,7 +551,15 @@
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
         },
-        {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""}
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Ali",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
     ],
     "lives": [
         {
