@@ -543,16 +543,7 @@
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
         },
-        {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
-        {
-            "key": "push_agent",
-            "name": "推送1",
-            "type": 3,
-            "api": "csp_Ali",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        }
+        {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""}
     ],
     "lives": [
         {
