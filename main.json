@@ -2,7 +2,7 @@
     "wallpaper":"https://picsum.photos/1280/720/?blur=10",
   
     // baddychen
-    "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/baddychen%2Fbaddychen.jar",
+    "spider":"https://gitee.com/yd_chengxuyuan/mao/raw/master/0625.jar",
   
     // tangsan
     // "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/tangsan/doraAmen.jar",
@@ -19,6 +19,9 @@
     
     "sites":[
       // baddychen
+    {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+    {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
