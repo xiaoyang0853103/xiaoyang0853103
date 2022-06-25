@@ -2,13 +2,13 @@
     "wallpaper":"https://picsum.photos/1280/720/?blur=10",
   
     // baddychen
-    "spider":"http://ys-e.ysepan.com/621354349/318860398/TLsHkWr544J7G3X56MIIc0/0625.jar",
+    // "spider":"http://ys-e.ysepan.com/621354349/318860398/TLsHkWr544J7G3X56MIIc0/0625.jar",
   
     // tangsan
     // "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/tangsan/doraAmen.jar",
   
     // xioaming
-    // "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/xiaoming/xm.jar",
+    "spider":"http://rdd4m1gw9.hn-bkt.clouddn.com/xiaoming/xm.jar",
     "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
       // "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL2xpdmUudHh0"
          "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL3R2ODgudHh0"
@@ -75,8 +75,8 @@
     // //{"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"ملاحظة"},
     // {"key":"csp_GitCafe2","name":"🐼小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
     // // {"key":"csp_Concert","name":"🎤演唱会","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"حفلة موسيقية"},
-    // {"key":"csp_Animal","name":"🐘动物世界","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":1,"ext":"عالم الحيوان"},
-    // {"key":"csp_Opera","name":"🏮戏曲","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"أوبرا"},
+     {"key":"csp_Animal","name":"🐘动物世界","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":1,"ext":"عالم الحيوان"},
+     {"key":"csp_Opera","name":"🏮戏曲","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"أوبرا"},
     // // {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"علي"},
      
     {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoyang0853103.github.io/dalao/MeowXP/huya2.json"},
