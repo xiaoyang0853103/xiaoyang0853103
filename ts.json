@@ -1,5 +1,9 @@
 {
   "spider": "https://raw.iqiq.io/xiaoyang0853103/xiaoyang0853103.github.io/main/ts0703.jar",
+   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
+      // "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL2xpdmUudHh0"
+         "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL3R2ODgudHh0"
+      ]}]}],
 
   "sites": [
   {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,19 +26,7 @@
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
   {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"27b06d5221a24199b15f2e573d847430"}
   ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
-          ]
-        }
-      ]
-    }
-  ],
+  
   "flags": [
     "youku",
     "qq",
