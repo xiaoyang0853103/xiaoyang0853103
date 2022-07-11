@@ -1,5 +1,7 @@
 {
-    "spider": "http://respi7732.hb-bkt.clouddn.com/ts0711.jar",
+   //  "spider": "http://respi7732.hb-bkt.clouddn.com/ts0711.jar",
+    "spider": "https://gitee.com/yd_chengxuyuan/bx/raw/master/ts0711.jar",
+    
      "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
         // "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL2xpdmUudHh0"
            "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL3R2ODgudHh0"
