@@ -11,7 +11,7 @@
     "cateVodName": "/h3/a/@title",
     "cateVodId": "/a/@href",
     "cateVodIdR": "",
-    "cateVodImg": "/a/img/@src",
+    "cateVodImg": "/a/img/@data-original",
     "cateVodImgR": "",
     "cateVodMark": "",
     "dtUrl": "http://www.3030.com.cn/watch/{vid}.html",
