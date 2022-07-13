@@ -9,6 +9,7 @@
     "cateUrl": "http://www.3030.com.cn/{cateId}_{catePg}.html",
     "cateVodNode": "//div[@class='lbox']/ul/li",
     "cateVodName": "/h3/a/@title",
+    "cateVodNameR": "/《(\\S+)》",
     "cateVodId": "/a/@href",
     "cateVodIdR": "/watch/(\\w+).html",
     "cateVodImg": "/a/img/@data-original",
