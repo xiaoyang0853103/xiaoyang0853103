@@ -10,7 +10,7 @@
     "cateVodNode": "//div[@class='lbox']/ul/li",
     "cateVodName": "/h3/a/@title",
     "cateVodId": "/a/@href",
-    "cateVodIdR": "/watch/(\\w+).html",
+    "cateVodIdR": "/(\\w+).html",
     "cateVodImg": "/a/img/@data-original",
     "cateVodMark": "",
     "dtUrl": "http://www.3030.com.cn/watch/{vid}.html",
