@@ -4,7 +4,7 @@
   "homeUrl": "http://www.3030.com.cn/",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
-  "cateNode": "//nav[contains(@class,'menu')]/li/a[contains(@href, 'type')and not(contains(@href,'zhibo'))]",
+  "cateNode": "//nav[contains(@class,'menu')]/ul/li/a[contains(@href, 'type')and not(contains(@href,'zhibo'))]",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/type/(\\w+).html",
