@@ -12,6 +12,7 @@
     "cateVodId": "/@href",
     "cateVodIdR": "/watch/(\\w+).html",
     "cateVodImg": "/img/@data-original",
+    "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "",
     "dtUrl": "http://www.3030.com.cn/watch/{vid}.html",
     "dtNode": "//body",
