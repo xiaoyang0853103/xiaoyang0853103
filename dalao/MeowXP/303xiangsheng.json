@@ -6,7 +6,7 @@
     "cateId": "/@href",
     "cateIdR": "",
     "cateManual": {},
-    "cateUrl": "http://www.3030.com.cn/{cateId}.html",
+    "cateUrl": "http://www.3030.com.cn/{cateId}",
     "cateVodNode": "//div[@class='wrap']/div[@class='lbox']/ul/li/h3/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
