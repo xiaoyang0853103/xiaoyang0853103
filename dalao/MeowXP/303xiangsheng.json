@@ -4,7 +4,7 @@
     "cateNode": "//nav[contains(@class,'menu')]/ul/li/a[contains(@href, '.html')]",
     "cateName": "/text()",
     "cateId": "/@href",
-    "cateIdR": "/(\\S+).html",
+    "cateIdR": "/(\\w+)-(\\d+).html",
     "cateManual": {},
     "cateUrl": "http://www.3030.com.cn/{cateId}_{catePg}.html",
     "cateVodNode": "//div[@class='lbox']/ul/li",
