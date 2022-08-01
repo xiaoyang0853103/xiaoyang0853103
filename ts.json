@@ -3,10 +3,7 @@
   "spider": "https://gitee.com/yd_chengxuyuan/bx/raw/master/ts0718.jar",
   
     "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-      // "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL2xpdmUudHh0"
-          // "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL3R2ODgudHh0"
-        "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3hpYW95YW5nMDg1MzEwMy5naXRodWIuaW8vdHYudHh0"
-        
+      "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWFveWFuZzA4NTMxMDMuZ2l0aHViLmlvL2xpdmUudHh0"
       ]}]}],
 
   "sites":[
