@@ -1,9 +1,9 @@
 {
-	"spider":"https://gitee.com/yd_chengxuyuan/bx/raw/master/qj809.jar;md5;06ED1A662FC19E4EA22F60F02770F4B6",
+	"spider":"https://gitee.com/yd_chengxuyuan/bx/raw/master/qj809.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
+    	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 		"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"
-		]}]}],
+	]}]}],
 	"sites":[
 		{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 		{"key":"Lezhu_spider","name":"🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -30,13 +30,12 @@
 		{"key":"FindZY","name":"🐞找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 		{"key":"push_agent","name":"🐞推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 		{"key":"酷猫","name":"🐞酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+		
 		{"key":"xinlangapi","name":"新浪(采集)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","动漫电影","欧美剧"]},
         	{"key":"guangsuapi","name":"光速推荐(采集)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","动漫电影","欧美剧"]},
         	{"key":"lziapi","name":"量子(采集)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","泰剧","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
         	{"key":"kuaibozy","name":"快播切片(采集)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
         	{"key":"诺讯资源","name":"诺讯资源(采集)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0}
-
-
 	],
 	"parses":[
 		{"name":"解析聚合","type":3,"url":"Demo"},
