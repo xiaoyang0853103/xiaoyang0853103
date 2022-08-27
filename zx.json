@@ -44,7 +44,7 @@
 		{"key":"xinlangapi","name":"新浪(采集)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","动漫电影","欧美剧"]},
 		{"key":"guangsuapi","name":"光速推荐(采集)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","动漫电影","欧美剧"]},
 		{"key":"lziapi","name":"量子(采集)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","泰剧","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
-		{"key":"csp_xbb_小强迷","name":"小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/QXB/小强迷.json"},
+		{"key":"csp_xbb_小强迷","name":"小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/QXB/小强迷.json"},
 		{"key":"push_agent","name":"📀推送(爱优腾/云盘)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}
 	],
 	"parses":[
