@@ -44,7 +44,18 @@
 		{"key":"xinlangapi","name":"新浪(采集)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","动漫电影","欧美剧"]},
 		{"key":"guangsuapi","name":"光速推荐(采集)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","动漫电影","欧美剧"]},
 		{"key":"lziapi","name":"量子(采集)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","韩国剧","欧美剧","泰剧","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
-		{"key":"csp_xbb_小强迷","name":"小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/QXB/小强迷.json"},
+		{"key":"csp_xp_nmys","name":"💢农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/nmys2.json"},
+{"key":"csp_xp_gongreng","name":"💢工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/gongreng.json"},
+{"key":"csp_xp_jpys","name":"💢极品影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/jpys.json"},
+{"key":"csp_xp_vip1280","name":"💢VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/vip1280.json"},
+{"key":"csp_xp_Gimy","name": "💢Gimy影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/Gimy2.json"},
+{"key":"csp_xp_lezhutv","name":"💢乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/lezhutv.json"},
+{"key":"csp_xp_ddg","name":"💢达达龟","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dadagui.json"},
+{"key":"csp_xp_jbb","name":"💢剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/jubaibai.json"},
+{"key":"csp_xp_saohuo","name":"💢骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/saohuotv.json"},
+{"key":"csp_xp_xqmi","name":"💢小 强 迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/xqmi.json"},
+{"key":"csp_xp_doujiao","name":"💢豆角影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/doujiao.json"},
+
 		{"key":"push_agent","name":"📀推送(爱优腾/云盘)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}
 	],
 	"parses":[
