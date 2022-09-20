@@ -1,11 +1,13 @@
 {
-	"spider":"https://gitee.com/yd_chengxuyuan/bx/raw/master/zx0917.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA",
+	"spider":"https://gitee.com/yd_chengxuyuan/bx/raw/master/zx0919.jar;md5;1BDB09562C5D0FB27BF32CFA1EADD897",
 	// "spider":"http://神器每日推送.tk/jar;md5;1236b6ca98013483085cdde3bb462b70",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 		"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"
 	]}]}],
 	"sites":[
+		{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
+		{"key":"csp_BBB","name":"🐞哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
 		{"key":"多多","name":"多多资源(v2)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
 		{"key":"优众影视","name":"优众影视(v2)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 		{"key":"Lezhu_spider","name":"🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
