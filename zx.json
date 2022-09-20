@@ -1,5 +1,6 @@
 {
-	"spider":"https://gitee.com/yd_chengxuyuan/bx/raw/master/zx0917.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA",
+	// "spider":"https://gitee.com/yd_chengxuyuan/bx/raw/master/zx0917.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA",
+	"spider":"http://神器每日推送.tk/jar;md5;1236b6ca98013483085cdde3bb462b70",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 		"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"
