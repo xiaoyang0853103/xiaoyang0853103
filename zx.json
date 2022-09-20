@@ -33,10 +33,10 @@
 		{"key": "csp_Anime1","name": "🐞小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"spider_Bttoo","name":"🐞2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 		// {"key": "小熊","name": "🐞小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
-		{"key": "csp_Yiso","name":"🔍️易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-		{"key":"Zhaozy","name":"🔍️找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-		{"key": "csp_AliPS","name":"🔍️喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-		{"key": "csp_Gitcafe","name":"🔍️小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},  
+		{"key": "csp_Yiso","name":"🔍️易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+		{"key":"Zhaozy","name":"🔍️找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://神器每日推送.tk/tok.txt"},
+		{"key": "csp_AliPS","name":"🔍️喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+		{"key": "csp_Gitcafe","name":"🔍️小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},  
 		{"key":"csp_biubiu_厂长资源-蓝光","name":"🍀厂长资源","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xb/厂长资源-蓝光.json"},
 		{"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xb/饭团HD.json"},
 		{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xb/voflix.json"},
@@ -51,7 +51,7 @@
         {"key":"csp_xp_jbb","name":"💢剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoyang0853103.github.io/dalao/xp/jubaibai.json"},
         {"key":"csp_xp_saohuo","name":"💢骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xp/saohuotv.json"},
         {"key":"csp_xp_xqmi","name":"💢小 强 迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xp/xqmi.json"},
-		{"key":"push_agent","name":"📀推送(爱优腾/云盘)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}
+		{"key":"push_agent","name":"📀推送(爱优腾/云盘)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"}
 	],
 	"parses":[
 		{"name":"解析聚合","type":3,"url":"Demo"},
