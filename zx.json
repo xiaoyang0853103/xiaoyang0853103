@@ -19,7 +19,7 @@
 		{"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 		{"key":"csp_LibVio","name":"🐞LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 		{"key":"csp_Auete","name":"🐞Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
+		{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://xiaoyang0853103.github.io/live/bilibili.json"},
 		{"key":"csp_jihuang","name":"🐞剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_555","name":"️🐞555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"spider_Bttoo","name":"🐞2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
