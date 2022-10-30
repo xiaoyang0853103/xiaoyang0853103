@@ -54,8 +54,6 @@
 {"key":"csp_app_独优影视","name":"🐌独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/voflix.json"},
 {"key":"csp_xbb_口袋影院","name":"🍀口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/口袋影院.json"},
-{"key":"csp_xp_jbb","name":"💢剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoyang0853103.github.io/dalao/xp/jubaibai.json"},
-{"key":"csp_xp_saohuo","name":"💢骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xp/saohuotv.json"},
 {"key":"csp_xp_xqmi","name":"💢小 强 迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoyang0853103.github.io/dalao/xp/xqmi.json"},
 {"key":"csp_xbb_骚火VIP","name":"🍀骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/shdy.json"},
 {"key":"csp_xbb_达达龟","name":"🍀达达龟","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/达达龟.json"},
