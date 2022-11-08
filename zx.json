@@ -59,7 +59,7 @@
 {"key":"csp_xp_6d","name":"💢六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/6d.json"},
 {"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/348z.json"},
 {"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xiaoyang0853103.github.io/FanTaiYing/yingba.json"},
-{"key":"csp_Alist1","name":"馃吙Alist缃戠洏","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--sss604efuw.ml/tvb/json/alist.json"}
+{"key":"csp_Alist1","name":"馃吙Alist缃戠洏","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--sss604efuw.ml/tvb/json/alist.json"},
 {"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/yd_chengxuyuan/bx/raw/master/ali.txt"},
 {"key":"csp_GitCafe","name":"小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/yd_chengxuyuan/bx/raw/master/ali.txt"},
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/yd_chengxuyuan/bx/raw/master/ali.txt"},
