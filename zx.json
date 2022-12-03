@@ -21,7 +21,7 @@
 // {"key":"新浪","name":"新浪资源(v2)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide//vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","日韩剧","港澳剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
 // {"key":"csp_AppTT","name":"图图┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-// {"key":"Zjdr","name":"追剧达人┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","spider": "https://gitee.com/yd_chengxuyuan/bx/raw/master/ts1201.jar;md5;eda8d81e3787f76dff0ee7723df8bfba"},
+// {"key":"Zjdr","name":"追剧达人┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar": "https://gitee.com/yd_chengxuyuan/bx/raw/master/ts1201.jar;md5;eda8d81e3787f76dff0ee7723df8bfba"},
 {"key":"csp_Bttoo","name":"2个BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"哔嘀┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"厂长资源┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
