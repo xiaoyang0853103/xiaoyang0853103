@@ -16,7 +16,7 @@
       "homeVodIdR": "/(S+).html",
       "homeVodImg": "//@data-echo",
       "homeVodImgR": "",
-      "homeVodMark": "/div/span[2]/span/text()",
+      "homeVodMark": "/div/span[2]/span/text()||/div/span[2]/span/em/text()",
       "cateUrl": "https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html",
       "cateVodNode": "//ul[@class='resize_list']/li/a",
       "cateVodName": "/@title",
