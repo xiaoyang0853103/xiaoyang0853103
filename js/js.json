@@ -1,6 +1,7 @@
 {"spider":"https://raw.iqiq.io/xiaoyang0853103/xiaoyang0853103.github.io/main/js/fm.jar",
  "sites":[
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://raw.iqiq.io/xiaoyang0853103/xiaoyang0853103.github.io/main/js/js/drpy.js"},
+{"key":"drpy_js_云镜影视","name":"云镜影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaoyang0853103/xiaoyang0853103.github.io/main/js/云镜影视.js"},
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaoyang0853103/xiaoyang0853103.github.io/main/js/js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"https://raw.iqiq.io/xiaoyang0853103/xiaoyang0853103.github.io/main/js/js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://raw.iqiq.io/xiaoyang0853103/xiaoyang0853103.github.io/main/js/js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://raw.iqiq.io/xiaoyang0853103/xiaoyang0853103.github.io/main/js/js/alistjar.json"},
