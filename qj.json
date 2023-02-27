@@ -6,7 +6,7 @@
     {"key":"1080","name":"1080资源(v2)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
     {"key":"量子","name":"量子资源(v2)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
     {"key":"新浪","name":"新浪资源(v2)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide//vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","日韩剧","港澳剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
-    {"key":"csp_Nmys","name":"农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaoyang0853103/xiaoyang0853103.github.io/main/dalao/nmys.json","jar": "https://gitee.com/yd_chengxuyuan/bx/raw/master/fty.jar;md5;a4a90401116d9f1f6a3358c63167ff1f"},
+    {"key":"csp_Nmys","name":"农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoyang0853103.github.io/dalao/nmys.json"},
     {"key": "csp_kuaikan","name": "快看┃SP","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_YQKAPP","name": "一起看┃SP","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz"},
     {"key": "csp_BuLei","name": "布雷┃SP","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.bulei.cc"},
@@ -78,14 +78,14 @@
     {
       "name": "饭太硬",
       "type": 0,
-      "url": "proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ=",
+      "url": "https://xn--m7r412advb92j21st65a.tk/live.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
       "name": "肥猫",
       "type": 0,
-      "url": "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0",
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/zb.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
